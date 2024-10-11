@@ -16,7 +16,7 @@ public class First_Datatype {
 		System.out.println("Float Is "+e);
 		double f=45.45625d;
 		System.out.println("Double Is "+f);
-		String g="qwerty";
+		String g="Qwerty";
 		System.out.println("String Is "+g);
 	}
 
