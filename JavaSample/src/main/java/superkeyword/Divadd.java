@@ -8,7 +8,7 @@ public class Divadd extends Returnadd
 		super();
 		int d=c/10;
 		System.out.println(d);
-		super.add();
+		super.display();
 	}
 
 	public static void main(String[] args) {

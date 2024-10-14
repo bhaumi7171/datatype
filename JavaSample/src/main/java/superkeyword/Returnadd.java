@@ -1,17 +1,20 @@
 package superkeyword;
 
 public class Returnadd {
-static  int a;
-static int  b;
-static int c;
+ int a;
+ int  b;
+ int c;
 
-	public int add()
+	public Returnadd()
 	{
-	 a=20;
-	 b=30;
+	a=20;
+	b=30;
 	c=a+b;
-	return c;
-	}
 	
+	}
+	public int display()
+	{
+		return c;
+	}
 
 }
