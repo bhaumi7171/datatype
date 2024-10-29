@@ -2,8 +2,7 @@ package encaps;
 
 public class Atmparent {
 private int a;
-int b;
-int c;
+
 public void setter(int a,int b,int c)
 {
 	this.a=a;
